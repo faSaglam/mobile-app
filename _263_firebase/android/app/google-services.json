@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "934708462401",
+    "firebase_url": "https://udemy-6deda-default-rtdb.firebaseio.com",
+    "project_id": "udemy-6deda",
+    "storage_bucket": "udemy-6deda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934708462401:android:f8754b62412073b872d7c0",
+        "android_client_info": {
+          "package_name": "com.example.u_263_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMJXHXhMN5bjHkRLVMIj0bIVhSezwM59Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
